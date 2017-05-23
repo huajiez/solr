@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/solr.iml" filepath="$PROJECT_DIR$/solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr-common/solr-common.iml" filepath="$PROJECT_DIR$/solr-common/solr-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr-dao/solr-dao.iml" filepath="$PROJECT_DIR$/solr-dao/solr-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr-service/solr-service.iml" filepath="$PROJECT_DIR$/solr-service/solr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr-web/solr-web.iml" filepath="$PROJECT_DIR$/solr-web/solr-web.iml" />
+    </modules>
+  </component>
+</project>
