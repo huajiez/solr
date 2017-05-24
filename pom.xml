@@ -13,6 +13,7 @@
         <module>solr-dao</module>
         <module>solr-service</module>
         <module>solr-web</module>
+        <module>solr-test</module>
     </modules>
 
 
