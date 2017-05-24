@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e78cf694-57f5-4c0f-8092-9888c6383e4f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-common/target/solr-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/solr-common/target/solr-common-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-dao/target/solr-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/solr-dao/target/solr-dao-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-service/target/solr-service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/solr-service/target/solr-service-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-web/target/solr-web.war" afterPath="$PROJECT_DIR$/solr-web/target/solr-web.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-web/target/solr-web/WEB-INF/lib/solr-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/solr-web/target/solr-web/WEB-INF/lib/solr-common-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-web/target/solr-web/WEB-INF/lib/solr-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/solr-web/target/solr-web/WEB-INF/lib/solr-dao-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-web/target/solr-web/WEB-INF/lib/solr-service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/solr-web/target/solr-web/WEB-INF/lib/solr-service-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/solr-common/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/solr-dao/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/solr-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solr-web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/solr-web/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -80,8 +65,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1495608533245" expanded="true" signature="67074:67431" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67079:67416" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67141:67403" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67185:67385" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67466:69578" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67479:69563" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67533:67828" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67552:67813" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67615:67793" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67655:67759" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67676:67737" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67878:68205" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67897:68190" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="67992:68170" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68032:68136" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68053:68114" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68256:68521" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68275:68506" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68308:68486" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68348:68452" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68369:68430" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68564:68870" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68583:68855" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68657:68835" ph="..." />
+                <marker date="1495608533245" expanded="true" signature="68697:68801" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solr-test/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -163,22 +184,7 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="solr-common" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -264,6 +270,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="solr-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="solr-service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -297,20 +361,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="solr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="solr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="solr-common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -890,12 +940,12 @@
       <workItem from="1495543544220" duration="4287000" />
       <workItem from="1495549082503" duration="3472000" />
       <workItem from="1495554609372" duration="1223000" />
-      <workItem from="1495607361243" duration="834000" />
+      <workItem from="1495607361243" duration="1195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11092000" />
+    <option name="totallyTimeSpent" value="11453000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1011,7 +1061,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1495608533245" expanded="true" signature="67074:67431" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67079:67416" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67141:67403" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67185:67385" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67466:69578" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67479:69563" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67533:67828" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67552:67813" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67615:67793" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67655:67759" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67676:67737" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67878:68205" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67897:68190" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67992:68170" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68032:68136" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68053:68114" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68256:68521" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68275:68506" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68308:68486" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68348:68452" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68369:68430" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68564:68870" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68583:68855" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68657:68835" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68697:68801" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1099,6 +1175,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1106,6 +1183,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,7 +1238,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1177,6 +1255,40 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495608533245" expanded="true" signature="67074:67431" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67079:67416" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67141:67403" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67185:67385" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67466:69578" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67479:69563" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67533:67828" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67552:67813" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67615:67793" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67655:67759" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67676:67737" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67878:68205" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67897:68190" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="67992:68170" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68032:68136" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68053:68114" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68256:68521" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68275:68506" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68308:68486" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68348:68452" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68369:68430" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68564:68870" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68583:68855" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68657:68835" ph="..." />
+            <marker date="1495608533245" expanded="true" signature="68697:68801" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr-test/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
