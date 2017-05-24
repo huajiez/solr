@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/solr.iml" filepath="$PROJECT_DIR$/solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr-common/solr-common.iml" filepath="$PROJECT_DIR$/solr-common/solr-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/solr-dao/solr-dao.iml" filepath="$PROJECT_DIR$/solr-dao/solr-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/solr-service/solr-service.iml" filepath="$PROJECT_DIR$/solr-service/solr-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/solr-test/solr-test.iml" filepath="$PROJECT_DIR$/solr-test/solr-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/solr-web/solr-web.iml" filepath="$PROJECT_DIR$/solr-web/solr-web.iml" />
     </modules>
   </component>

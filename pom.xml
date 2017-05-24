@@ -9,11 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>solr-web</module>
         <module>solr-common</module>
         <module>solr-dao</module>
         <module>solr-service</module>
-        <module>solr-web</module>
-        <module>solr-test</module>
     </modules>
 
 

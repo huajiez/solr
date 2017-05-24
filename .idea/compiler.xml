@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="solr-common" />
         <module name="solr-dao" />
         <module name="solr-service" />
         <module name="solr-web" />
@@ -16,6 +17,7 @@
       <module name="solr-common" target="1.5" />
       <module name="solr-dao" target="1.5" />
       <module name="solr-service" target="1.5" />
+      <module name="solr-test" target="1.5" />
       <module name="solr-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
